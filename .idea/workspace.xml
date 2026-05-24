@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d34f1581-2d9b-4e0d-aba4-ac986c3f3898" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/uppgift_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift_5.py" afterDir="false" />
+    <list default="true" id="d34f1581-2d9b-4e0d-aba4-ac986c3f3898" name="Changes" comment="Uppgiften är klar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uppgift_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uppgift_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,24 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.uppgift_1.executor": "Run",
-    "Python.uppgift_2.executor": "Run",
-    "Python.uppgift_4.executor": "Run",
-    "Python.uppgift_5.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/musta/PycharmProjects/PythonProject/Veckouppgift-2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.uppgift_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uppgift_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uppgift_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uppgift_5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/musta/PycharmProjects/PythonProject/Veckouppgift-2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\musta\PycharmProjects\PythonProject\Veckouppgift-2" />
@@ -96,12 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1779368722571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Uppgiften är klar">
+      <option name="closed" value="true" />
+      <created>1779642968265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779642968266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Uppgiften är klar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgiften är klar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
