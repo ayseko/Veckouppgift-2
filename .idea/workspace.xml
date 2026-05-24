@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d34f1581-2d9b-4e0d-aba4-ac986c3f3898" name="Changes" comment="Uppgiften är klar">
+    <list default="true" id="d34f1581-2d9b-4e0d-aba4-ac986c3f3898" name="Changes" comment="Uppgiften är förbättrad">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uppgift_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uppgift_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +100,22 @@
       <option name="project" value="LOCAL" />
       <updated>1779642968266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Uppgiften är förbättrad">
+      <option name="closed" value="true" />
+      <created>1779643766842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779643766843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Uppgiften är klar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppgiften är klar" />
+    <MESSAGE value="Uppgiften är förbättrad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgiften är förbättrad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
